@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently learning **Java, C#, JavaScript, Android development, and server management**
 
-- Open for a Co-op position starting summer 2024, **available 4-16 months**
+- Currently in a Co-op position starting summer 2024
 
 - Personal portfolio: [https://stefan-kob.github.io/](https://stefan-kob.github.io/)
 
