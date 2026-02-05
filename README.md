@@ -1,15 +1,14 @@
 <h1 align="center">Hello!👋, I'm Stefan Kobetich</h1>
 <h3 align="center">An aspiring computer programmer located in K/W</h3>
 
-- I’m currently a third-year student in **Conestoga College, CPA**
+- I’m currently a fourth-year student at **Conestoga College, CPA**
 
-- 🏫 I’m currently learning **C#, Java, JavaScript, Android development, and server management**
+- 🏫 I’m currently learning **C#, Java, JavaScript, Android development, server management, and continuous deployment**
 
 - Currently in a Co-op position from May to December
     - Open for work starting January
 
 - Personal Portfolio: [https://stefan-kob.github.io/](https://stefan-kob.github.io/)
-    - Currently working on my social media app called **SoundSee**
 
 - 📫 How to reach me **kobetichs@gmail.com**
 
